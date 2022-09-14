@@ -1,0 +1,44 @@
+/*Page Design Stuff*/
+.contactinfo {
+  color: #FFFFFF;
+  background-color: #260C0C;
+}
+/*A Class Tag*/
+
+#greyback {
+  background-color: #595959;
+}
+
+.whatpage {
+  background-color: #FF0000;
+}
+/*A Class Tag*/
+
+.headercolor {
+  color: #FFFFFF;
+  background-color: #0300D1;
+}
+
+.headercolor2 {
+  color: #FFFFFF;
+  background-color: #A118B3;
+}
+
+#navcolor {
+  color: #FFFFFF;
+  background-color: #000000
+}
+/*An ID Tag*/
+
+/*Link Design Stuff*/
+a:link {
+  color: #BF3F3F;
+}
+
+a:visited {
+  color: #3FBF3F;
+}
+
+a:hover {
+  color: #BFBF3F;
+}
