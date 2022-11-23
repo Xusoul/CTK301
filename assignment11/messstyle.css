@@ -33,7 +33,6 @@ nav a {
   text-align: center;
 }
 
-
 .navitems img {
   width: 150px;
   height: 150px;
@@ -53,6 +52,14 @@ main h2 {
   font-size: 30px;
   text-transform: uppercase;
   border-bottom: 5px solid black;
+}
+
+.center {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  height: 150px;
 }
 
 footer {
