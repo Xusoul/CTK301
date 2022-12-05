@@ -1,0 +1,52 @@
+body {
+  background-color: #c3b091;
+}
+
+#wrapper {
+  padding: 24px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(12,1fr);
+  background-color: #d1c2aa;
+}
+
+header {
+  grid-column: span 12;
+  text-align: center;
+}
+
+nav {
+  grid-column: span 12;
+}
+
+header, nav {
+  font-family: 'Architects Daughter', cursive;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav li {
+  display: inline-block;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+li a {
+  text-decoration: none;
+  color: black;
+}
+
+li a:hover {
+  text-decoration: underline;
+}
+
+main {
+  font-family: 'Dosis', sans-serif;
+  grid-column: span 12;
+}
+
+main h3 {
+  text-align: center;
+}
